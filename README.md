@@ -1,8 +1,9 @@
-# React + Vite
+# WebbySearch: A Mini Search Engine based on web scraping using MERN Stack and Tailwind
+This project is based on  WebbySearch: A Mini Search Engine based on web scraping using MERN Stack and Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
 
-Currently, two official plugins are available:
+After cloning the repo, go to the project directory by typing command - `cd <project_directory>` and then type - `npm i` to install the dependencies. Then type command - `npm run dev` to start the server.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Requirements
+Make sure you have latest Node js version installed in your system.
